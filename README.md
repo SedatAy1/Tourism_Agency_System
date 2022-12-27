@@ -15,43 +15,46 @@ Operator: It has the powers of Searching Hotel, Adding New Reservation and Listi
 ## Sign In screen. 
 New operators can register from this screen.
 
-![](../../../Desktop/Screenshot 2022-12-27 at 14.01.31.png)
+<img width="595" alt="Screenshot 2022-12-27 at 14 01 31" src="https://user-images.githubusercontent.com/46796424/209663124-07f24a63-5531-4c38-a033-f6641bf3a528.png">
+
 
 ## Login In Screen
-
-![](../../../Desktop/Screenshot 2022-12-27 at 14.02.12.png)
+<img width="450" alt="Screenshot 2022-12-27 at 14 02 12" src="https://user-images.githubusercontent.com/46796424/209663193-197b93b8-8e76-44c6-834d-bc73c9720a9f.png">
 
 ## Hotel List Screen
 Only admin user can access this screen.
 
-![](../../../Desktop/Screenshot 2022-12-27 at 14.03.05.png)
+<img width="1053" alt="Screenshot 2022-12-27 at 14 03 05" src="https://user-images.githubusercontent.com/46796424/209663336-b9c37ee3-36b0-4c50-9f73-bfe013ee8688.png">
 
 ## Hotel Room Add Screen
-![](../../../Desktop/Screenshot 2022-12-27 at 14.03.56.png)
+<img width="746" alt="Screenshot 2022-12-27 at 14 03 56" src="https://user-images.githubusercontent.com/46796424/209663347-67e798a9-8169-4d7e-b18b-751c0af35d13.png">
 
 ## Room Pricing Screen
-![](../../../Desktop/Screenshot 2022-12-27 at 14.04.15.png)
+<img width="746" alt="Screenshot 2022-12-27 at 14 04 15" src="https://user-images.githubusercontent.com/46796424/209663365-e2023487-98cd-4e93-90e1-e2acb329edc4.png">
 
 ## New Hotel Add Screen
-![](../../../Desktop/Screenshot 2022-12-27 at 14.08.27.png)
+<img width="700" alt="Screenshot 2022-12-27 at 14 08 27" src="https://user-images.githubusercontent.com/46796424/209663376-da46dd8b-e286-4636-84fd-8bcc70401343.png">
 
 ## Reservation List
 Operator userscan access this screen.
-![](../../../Desktop/Screenshot 2022-12-27 at 14.08.58.png)
+
+<img width="994" alt="Screenshot 2022-12-27 at 14 08 58" src="https://user-images.githubusercontent.com/46796424/209663426-75e799d9-eaaf-492f-86dd-d2c462341c86.png">
 
 ## Search Screen
 From here, you can find out if there is a hotel with suitable rooms according to the date you want and the number of guests.
+The "-" sign is automatically placed in the date input field.
 
-![](../../../Desktop/Screenshot 2022-12-27 at 14.10.30.png)
+<img width="698" alt="Screenshot 2022-12-27 at 14 10 30" src="https://user-images.githubusercontent.com/46796424/209663560-b734f730-8f49-47be-8e57-26f286e6c472.png">
 
 ## Searching Result Screen
-![](../../../Desktop/Screenshot 2022-12-27 at 14.10.49.png)
+<img width="1089" alt="Screenshot 2022-12-27 at 14 10 49" src="https://user-images.githubusercontent.com/46796424/209663585-863b513b-63e7-4767-b5a5-a89b931e9edb.png">
 
 ## Make New Rezervation
-![](../../../Desktop/Screenshot 2022-12-27 at 14.13.01.png)
+<img width="998" alt="Screenshot 2022-12-27 at 14 13 01" src="https://user-images.githubusercontent.com/46796424/209663608-3029b6fe-1bde-499d-9a9a-3c5747b89403.png">
 
 # Return the Rezervation Lists
-![](../../../Desktop/Screenshot 2022-12-27 at 14.14.57.png)
+<img width="998" alt="Screenshot 2022-12-27 at 14 14 57" src="https://user-images.githubusercontent.com/46796424/209663621-123ccc39-c870-4f31-b1f8-ff962b8e435f.png">
+
 
 
 
