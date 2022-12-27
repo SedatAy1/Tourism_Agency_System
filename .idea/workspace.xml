@@ -1,8 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76486d9a-7062-47b3-9c16-7b2f3230787c" name="Changes" comment="">
+    <list default="true" id="76486d9a-7062-47b3-9c16-7b2f3230787c" name="Changes" comment="update readme">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0447dd174ac082ee2ae80a5d7e7e02ccf0e9e897" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a8b951fe0f08ca7cda5f046f9166ab683513660" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1dc2310fc6d67a69e3f43e03e35e158896a96765" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c92af1512452924e2d40bf8a94e088f8bf58b5c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbac70d923a63b0f6fd4258702b5da6f55e45bfd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ead401170428ee00842bd987c0c9548cffff42f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1611c7c2564fb93f36bd411476f2970ede11349" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezCompleteGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezCompleteGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelAddGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelAddGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelAddGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelAddGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezCompleteGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezCompleteGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezCompleteGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezCompleteGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RoomGUI.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RoomGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchOutputGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchOutputGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchRoomGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchRoomGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +69,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "327",
@@ -80,8 +114,16 @@
       <workItem from="1671434858288" duration="20327000" />
       <workItem from="1671518545058" duration="83916000" />
       <workItem from="1671967881066" duration="26917000" />
-      <workItem from="1672132167062" duration="1815000" />
+      <workItem from="1672132167062" duration="3968000" />
     </task>
+    <task id="LOCAL-00001" summary="update readme">
+      <created>1672134212622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672134212622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +139,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme" />
   </component>
 </project>

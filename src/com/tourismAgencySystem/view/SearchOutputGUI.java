@@ -89,7 +89,7 @@ public class SearchOutputGUI extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 System.out.println(calculatePayment(rezDate));
-                RezCompleteGUI rezCompleteGUI = new RezCompleteGUI(hotel_id,room_id,room_type,numAdult,numChild,checkIn,checkOut);
+                RezCompleteGUI rezCompleteGUI = new RezCompleteGUI(user,hotel_id,room_id,room_type,numAdult,numChild,checkIn,checkOut);
             }
         });
         btn_back.addActionListener(new ActionListener() {

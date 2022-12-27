@@ -55,11 +55,6 @@ public class SearchRoomGUI extends  JFrame{
         spn_adult.setModel(spinnerModelAdult);
         spn_children.setModel(spinnerModelChild);
 
-        fld_location.setText("Ankara");
-        fld_check_in.setText("2022-04-10");
-        fld_check_out.setText("2022-04-12");
-
-
         guestNumController();
 
 
@@ -133,13 +128,17 @@ public class SearchRoomGUI extends  JFrame{
         btn_search.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                String location = fld_location.getText();
-                Date checkIn = Date.valueOf(fld_check_in.getText());
-                Date checkOut = Date.valueOf(fld_check_out.getText());
-                int numAdult = Integer.parseInt(spn_adult.getValue().toString());
-                int numChild = Integer.parseInt(spn_children.getValue().toString());
+                if (Helper.isFieldEmpty(fld_location) || Helper.isFieldEmpty(fld_check_in) || Helper.isFieldEmpty(fld_check_out)){
+                    Helper.showMsg("fill");
+                }else {
+                    String location = fld_location.getText();
+                    Date checkIn = Date.valueOf(fld_check_in.getText());
+                    Date checkOut = Date.valueOf(fld_check_out.getText());
+                    int numAdult = Integer.parseInt(spn_adult.getValue().toString());
+                    int numChild = Integer.parseInt(spn_children.getValue().toString());
+                    search(location,checkIn,checkOut,numAdult,numChild);
+                }
 
-                search(location,checkIn,checkOut,numAdult,numChild);
 
             }
         });

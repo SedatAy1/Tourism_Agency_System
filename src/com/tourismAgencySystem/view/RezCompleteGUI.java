@@ -3,6 +3,7 @@ package com.tourismAgencySystem.view;
 import com.tourismAgencySystem.helper.Config;
 import com.tourismAgencySystem.helper.DBConnector;
 import com.tourismAgencySystem.helper.Helper;
+import com.tourismAgencySystem.model.User;
 
 import javax.swing.*;
 import java.awt.*;
@@ -35,7 +36,7 @@ public class RezCompleteGUI extends JFrame{
 
 
 
-    public RezCompleteGUI(int hotel_id, int room_id, String room_type, int numAdult, int numChild, Date checkIn, Date checkOut) {
+    public RezCompleteGUI(User user, int hotel_id, int room_id, String room_type, int numAdult, int numChild, Date checkIn, Date checkOut) {
         System.out.println(numChild);
         int numGuest = numAdult + numChild;
         add(wrapper);
@@ -95,6 +96,8 @@ public class RezCompleteGUI extends JFrame{
                 if (Boolean.TRUE.equals(status)){
                     updateStock(room_id);
                     Helper.showMsg("Rezervasyon Tamamlandı.");
+                    dispose();
+                    RezListGUI rezListGUI = new RezListGUI(user);
                 }else {
                     Helper.showMsg("Bir hata oluştu.");
                 }
@@ -103,7 +106,7 @@ public class RezCompleteGUI extends JFrame{
     }
 
     public boolean addRez(String contactName,String contactReznote, String contactPhone, String contactEmail,String guestName,String guestNation, String guestTc, int hotel_id, int room_id,Date checkIn, Date checkOut){
-        String query = "INSERT INTO public.rez " + "(contact_name,contac_phone,contact_email,rez_note," +
+        String query = "INSERT INTO public.rez " + "(contact_name,contact_phone,contact_email,rez_note," +
                 "guest_name,guest_nation,guest_identity,hotel_id,room_id,check_in,check_out)" +
                 "VALUES (?,?,?,?,?,?,?,?,?,?,?)";
         try {

@@ -35,6 +35,7 @@ public class HotelAddGUI extends JFrame{
     private JButton btn_add;
     private JCheckBox chckBx_freePark;
     private JComboBox cmb_boardinHouse;
+    private JLabel lbl_welcome;
     private Hotel hotel;
     private final ArrayList<String> serviceSpecList = new ArrayList<>();
 
@@ -49,6 +50,7 @@ public class HotelAddGUI extends JFrame{
         fld_adres.setLineWrap(true);
         loadComboStar();
         loadComboPension();
+        lbl_welcome.setText("Hoşgeldiniz, " + user.getFirst_name() + " " + user.getLast_name());
 
         chckBx_freePark.addItemListener(new ItemListener() {
             @Override
