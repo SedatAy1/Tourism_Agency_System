@@ -154,3 +154,4 @@ and completes the sale through the system. If the sale is completed, the stock o
 
 Reservation List
 Agency employees can list the reservations made on the system.
+
