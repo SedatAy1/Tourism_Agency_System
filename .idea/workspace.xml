@@ -4,124 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76486d9a-7062-47b3-9c16-7b2f3230787c" name="Changes" comment="Some bug fixes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/360-3608176_hotel-hotel-comments-logo-hotel-vector-png.png.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/AbstractLayout 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/DimensionInfo 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/helper/Config 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/helper/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/helper/DBConnector 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/helper/DBConnector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/helper/Helper 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/helper/Helper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/model/Hotel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/model/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/model/Season.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/model/User 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelAddGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/HotelGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/LoginGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/LoginGUI$1 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/LoginGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/LoginGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/LoginGUI$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/LoginGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezCompleteGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezCompleteGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezCompleteGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezListGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezListGUI$1 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezListGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezListGUI$2 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezListGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezListGUI$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RezListGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomAddGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomAddGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomAddGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomPricingGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomPricingGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/RoomPricingGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchOutputGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchOutputGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchOutputGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchOutputGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI 3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SearchRoomGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SignInGUI 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SignInGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/com/tourismAgencySystem/view/SignInGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/free-hotel-icon-1880-thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TourismAgencySystem/search-interface-symbol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/360-3608176_hotel-hotel-comments-logo-hotel-vector-png.png.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/helper/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/helper/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/helper/DBConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/helper/DBConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/helper/Helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/model/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/model/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/model/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/model/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/model/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/model/Season.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelAddGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/HotelAddGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelAddGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/HotelAddGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/HotelGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/HotelGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/HotelGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/LoginGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/LoginGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/LoginGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/LoginGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezCompleteGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RezCompleteGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezCompleteGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RezCompleteGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezListGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RezListGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RezListGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RezListGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RoomAddGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RoomAddGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RoomAddGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RoomAddGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RoomPricingGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RoomPricingGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/RoomPricingGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/RoomPricingGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchOutputGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/SearchOutputGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchOutputGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/SearchOutputGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchRoomGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/SearchRoomGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SearchRoomGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/SearchRoomGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SignInGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/SignInGUI.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tourismAgencySystem/view/SignInGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TourismAgencySystem/view/SignInGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/free-hotel-icon-1880-thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/search-interface-symbol.png" beforeDir="false" />
-    </list>
+    <list default="true" id="76486d9a-7062-47b3-9c16-7b2f3230787c" name="Changes" comment="Some bug fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +52,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -228,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1672139920474</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Some bug fixes">
+      <option name="closed" value="true" />
+      <created>1713990160396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713990160396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Some bug fixes">
+      <option name="closed" value="true" />
+      <created>1713990181995</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713990181995</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
