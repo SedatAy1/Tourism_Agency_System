@@ -1,6 +1,9 @@
 
 # Tourism Agency System
 
+## Ekran Görüntüleri
+https://github.com/SedatAy1/Tourism_Agency_System/issues/1
+
 Patika Tourism Agency needs a structure where it can run its business digitally. Assume that you have agreed with Patika for this digital infrastructure.
 
 The main purpose of this project is to enable the company operating in the hotel sector to manage its daily operations more effectively and to optimize customer reservation processes.
@@ -130,7 +133,7 @@ Pricing expected in the system
 Prices are defined according to the nightly cost of the rooms.
 
 
-## Ekran Görüntüleri
+
 
 
     
