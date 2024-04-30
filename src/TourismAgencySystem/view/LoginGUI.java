@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-public class LoginGUI extends JFrame{
+public class  LoginGUI extends JFrame{
     private JPanel wrapper;
     private JTextField fld_uname_email;
     private JTextField fld_pass;
@@ -25,6 +25,7 @@ public class LoginGUI extends JFrame{
         setTitle(Config.PROJECT_TITLE);
         setResizable(false);
         setVisible(true);
+        // Login işleminde kullanıcının kaydı olup olmadığı kontrol ediliyor mu, kaydı yoksa ya da hatalı giriş yapıldıysa kullanıcıya hatalı giriş mesajı veriliyor mu?
 
         fld_pass.addKeyListener(new KeyListener() {
             @Override

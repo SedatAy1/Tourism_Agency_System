@@ -5,7 +5,7 @@ import TourismAgencySystem.view.LoginGUI;
 public class Main {
     private User user;
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Merhaba");
 
         LoginGUI loginGUI = new LoginGUI();
 
